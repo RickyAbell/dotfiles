@@ -10,7 +10,7 @@ git pull origin master
 function doIt() {
   local DOTFILES_ROOT=$(pwd)
 
-  if ["$1" == "runInstalls"]
+  if [ "$1" == "runInstalls" ]
   then
     source installs/brew-installs.sh
     source installs/brew-cask-installs.sh
