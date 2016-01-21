@@ -12,7 +12,7 @@ brew upgrade
 # Install packages
 apps=(
     node
-    pebble-sdk
+    pebble/pebble-sdk/pebble-sdk
 )
 
 brew install "${apps[@]}"
