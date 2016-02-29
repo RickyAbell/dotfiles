@@ -13,6 +13,10 @@ brew upgrade
 apps=(
     node
     pebble/pebble-sdk/pebble-sdk
+    python3
 )
 
 brew install "${apps[@]}"
+
+# Install pip3 packages now that it is available
+pip3 install jupyter
