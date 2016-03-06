@@ -15,6 +15,7 @@ function doIt() {
     source installs/brew-installs.sh
     source installs/brew-cask-installs.sh
     source installs/node-installs.sh
+    source installs/gem-installs.sh
   fi
 
   # Backup the previous bash_profile just in case someone skips the warning
