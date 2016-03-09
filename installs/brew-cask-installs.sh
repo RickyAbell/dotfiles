@@ -4,6 +4,7 @@ brew tap caskroom/versions
 
 # Install apps
 apps=(
+    alcatraz
 	beyond-compare
     dropbox
     evernote
