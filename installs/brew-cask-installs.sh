@@ -6,7 +6,6 @@ brew tap caskroom/versions
 apps=(
     alcatraz
 	beyond-compare
-    dropbox
     evernote
     firefox
     gimp
