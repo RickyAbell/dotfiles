@@ -14,6 +14,7 @@ apps=(
     node
     pebble/pebble-sdk/pebble-sdk
     python3
+    awscli
 )
 
 brew install "${apps[@]}"
