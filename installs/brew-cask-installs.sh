@@ -5,7 +5,7 @@ brew tap caskroom/versions
 # Install apps
 apps=(
     alcatraz
-	beyond-compare
+    beyond-compare
     charles
     evernote
     firefox
@@ -18,6 +18,7 @@ apps=(
     spectacle
     spotify
     sublime-text3
+    visual-studio-code
 )
 
 brew cask install "${apps[@]}"
