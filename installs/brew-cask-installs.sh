@@ -14,6 +14,7 @@ apps=(
     google-chrome
     google-drive
     skype
+    slack
     sourcetree
     spectacle
     spotify
