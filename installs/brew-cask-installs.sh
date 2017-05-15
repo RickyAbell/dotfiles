@@ -4,7 +4,6 @@ brew tap caskroom/versions
 
 # Install apps
 apps=(
-    alcatraz
     beyond-compare
     charles
     evernote
@@ -18,7 +17,7 @@ apps=(
     sourcetree
     spectacle
     spotify
-    sublime-text3
+    sublime-text
     visual-studio-code
 )
 
