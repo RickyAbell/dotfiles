@@ -4,14 +4,17 @@ brew tap caskroom/versions
 
 # Install apps
 apps=(
+    1password
     beyond-compare
     charles
+    docker
     evernote
     firefox
     gimp
     github-desktop
     google-chrome
     google-drive
+    intellij-idea-ce 
     skype
     slack
     sourcetree
