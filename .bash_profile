@@ -1,4 +1,4 @@
-export PATH="/bin:/usr/bin:/usr/local/bin:/usr/sbin:/sbin:~/.node/bin:$PATH"
+export PATH="/bin:/usr/local/bin:/usr/bin:/usr/sbin:/sbin:~/.node/bin:$PATH"
 
 # Expose ruby gem folder in home directory
 if which ruby >/dev/null && which gem >/dev/null; then
@@ -12,3 +12,5 @@ do
 done
 unset file
 
+export PATH="/usr/local/opt/icu4c/bin:$PATH"
+export PATH="/usr/local/opt/icu4c/sbin:$PATH"
