@@ -1,4 +1,4 @@
-export PATH="/bin:/usr/local/bin:/usr/bin:/usr/sbin:/sbin:~/.node/bin:$PATH"
+export PATH="/bin:/usr/local/bin:/usr/bin:/usr/sbin:/sbin:~/.node/bin:/Applications/Visual Studio Code.app/Contents/Resources/app/bin:$PATH"
 
 # Expose ruby gem folder in home directory
 if which ruby >/dev/null && which gem >/dev/null; then
