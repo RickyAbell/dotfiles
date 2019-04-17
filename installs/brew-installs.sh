@@ -12,6 +12,7 @@ brew upgrade
 # Install packages
 apps=(
     node
+    nvm
     pebble/pebble-sdk/pebble-sdk
     python3
     awscli
