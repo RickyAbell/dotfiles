@@ -11,10 +11,7 @@ apps=(
     evernote
     firefox
     gimp
-    github-desktop
     google-chrome
-    google-drive
-    intellij-idea-ce 
     skype
     slack
     sourcetree
