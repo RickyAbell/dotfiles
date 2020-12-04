@@ -6,15 +6,9 @@ brew tap caskroom/versions
 apps=(
     1password
     beyond-compare
-    charles
-    docker
     evernote
-    firefox
-    gimp
     google-chrome
-    skype
     slack
-    sourcetree
     spectacle
     spotify
     sublime-text
